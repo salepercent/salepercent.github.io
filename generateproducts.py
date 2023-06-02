@@ -46,9 +46,11 @@ for file_name in os.listdir(csv_directory):
                 <header>
                     <h1>Our Products</h1>
                     <nav>
-                        <a href="../index.html">Home</a> |
-                        <a href="../products.html">Products</a> |
-                        <a href="../contact.html">Contact</a>
+                      <ul>
+                        <li><a href="../index.html">Home</a></li>
+                        <li><a href="../products.html">Products</a></li>
+                        <li><a href="../contact.html">Contact</a></li>
+                      </ul>
                     </nav>
                 </header>
                 <main>
