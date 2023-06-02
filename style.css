@@ -29,6 +29,16 @@ nav ul li {
     margin-right: 10px;
 }
 
+nav ul li a {
+    font-size: 18px; /* Increase font size for navigation */
+    color: #fff; /* Set link color for navigation */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #FF9900; /* Set different color for hover state */
+}
+
 /* Banner styles */
 #banner {
     padding: 100px 0;
